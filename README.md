@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Siiwson
+- 👀 I’m interested in ... ;-;
+- 🌱 I’m currently learning C++, R and really want to learn html ;c
+- 📫 Reach me on discord - Sivvy#0153
