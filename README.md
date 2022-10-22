@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Siiwson
 - 👀 I’m interested in ... ;-;
 - 🌱 I’m currently learning C++, R and html i guess
-- 📫 Reach me on discord - Sivvy#0153
+- 📫 Reach me on discord - Sivvy#7545
